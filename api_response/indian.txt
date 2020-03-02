@@ -1,0 +1,2755 @@
+{
+    "results": [
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 9,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 25,
+            "cookingMinutes": 25,
+            "sourceUrl": "http://www.vegrecipesofindia.com/gobi-pakora-cauliflower-pakora/",
+            "spoonacularSourceUrl": "https://spoonacular.com/gobi-pakora-how-to-make-gobi-pakoras-or-cauliflower-fritters-488633",
+            "aggregateLikes": 633,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Veg Recipes of India",
+            "sourceName": "Veg Recipes of India",
+            "pricePerServing": 204.27,
+            "id": 488633,
+            "title": "gobi pakora , how to make gobi pakoras or cauliflower fritters",
+            "readyInMinutes": 50,
+            "servings": 3,
+            "image": "https://spoonacular.com/recipeImages/488633-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are my top picks for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Jurtschitsch Stein Gruner Veltliner with a 4.2 out of 5 star rating seems like a good match. It costs about 18 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 446620,
+                        "title": "Jurtschitsch Stein Gruner Veltliner",
+                        "description": "Grapefruit, salt, and wet rock, refreshing, rejuvenating and appetizing– all these attributes are found on the nose and the palate. Stone fruit completes the array of aromas. Definitely a terroir wine. The structure is compact and tightly woven while the style is cool and elegant and a fine texture coats the mouth. The Stein is playful and refreshing, yet is by no means superficial.",
+                        "price": "$17.99",
+                        "imageUrl": "https://spoonacular.com/productImages/446620-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 16.0,
+                        "score": 0.8195918367346939,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fjurtschitsch-stein-gruner-veltliner-2016%2F196110"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "boil enough water with salt.break or chop the cauliflower in medium sized florets.rinse them well and add them to the boiling water.switch off the flame and let the cauliflower florets be immersed in the water for 10-12 minutes.drain and then marinate the cauliflower with red chili powder, turmeric powder, ginger-garlic paste, garam masala powder. mix very well and keep aside for 8-10 minutes.in another bowl, make a smooth batter with the besan/gram flour, asafoetida, baking soda or baking powder, salt and water.heat oil in a kadai or deep fryer.take each marinated cauliflower and dip in the batter.coat each floret with the batter and add these in the medium hot oil.fry till the pakoras are crisp and golden evenly.drain on paper towels.serve the gobi pakora hot or warm with any green chutney or sauce, sprinkled with chaat masala, lemon juice and chopped coriander leaves.",
+                            "ingredients": [
+                                {
+                                    "id": 10011135,
+                                    "name": "cauliflower florets",
+                                    "image": "cauliflower.jpg"
+                                },
+                                {
+                                    "id": 10093754,
+                                    "name": "ginger garlic paste",
+                                    "image": "ginger-garlic-paste.png"
+                                },
+                                {
+                                    "id": 2009,
+                                    "name": "chili powder",
+                                    "image": "chili-powder.jpg"
+                                },
+                                {
+                                    "id": 2043,
+                                    "name": "turmeric",
+                                    "image": "turmeric.jpg"
+                                },
+                                {
+                                    "id": 93663,
+                                    "name": "garam masala",
+                                    "image": "garam-masala.jpg"
+                                },
+                                {
+                                    "id": 11135,
+                                    "name": "cauliflower",
+                                    "image": "cauliflower.jpg"
+                                },
+                                {
+                                    "id": 1032035,
+                                    "name": "asafoetida",
+                                    "image": "curry-powder.jpg"
+                                },
+                                {
+                                    "id": 16157,
+                                    "name": "chickpea flour",
+                                    "image": "chickpea-flour-or-another-gluten-free-flour.jpg"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405895,
+                                    "name": "paper towels",
+                                    "image": "paper-towels.jpg"
+                                },
+                                {
+                                    "id": 404759,
+                                    "name": "deep fryer",
+                                    "image": "deep-fryer.jpg"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 22,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 381.252,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 21.9475,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 7.76189,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 56.8769,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 23,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 20,
+            "cookingMinutes": 30,
+            "sourceUrl": "http://naturallyella.com/2012/11/23/red-lentils-and-spinach-in-masala-sauce/",
+            "spoonacularSourceUrl": "https://spoonacular.com/red-lentils-and-spinach-in-masala-sauce-577852",
+            "aggregateLikes": 41471,
+            "spoonacularScore": 100.0,
+            "healthScore": 68.0,
+            "creditsText": "Naturally Ella",
+            "sourceName": "Naturally Ella",
+            "pricePerServing": 310.52,
+            "id": 577852,
+            "title": "Red Lentils and Spinach in Masala Sauce",
+            "readyInMinutes": 50,
+            "servings": 2,
+            "image": "https://spoonacular.com/recipeImages/577852-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Indian can be paired with Gruener Veltliner, Riesling, and Sparkling rosé. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Markus Huber Obere Steigen Gruner Veltliner with a 4.2 out of 5 star rating seems like a good match. It costs about 19 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 438915,
+                        "title": "Markus Huber Obere Steigen Gruner Veltliner",
+                        "description": "Light yellow with green hues. Peppery on the nose, hints of spices typical of Grüner Veltliner, aromatic herbs and yellow fruits. Dense and complex on the palate, promising aging potential.",
+                        "price": "$19.49",
+                        "imageUrl": "https://spoonacular.com/productImages/438915-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 13.0,
+                        "score": 0.8150000000000001,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fmarkus-huber-obere-steigen-gruner-veltliner-2008%2F103291"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "To make paste, toast cumin and coriander seeds in skillet until fragrant. Use a mortar and pestle (or a spice grinder) to grind spices.In a small food processor, add ginger and pulse until broken into small pieces.",
+                            "ingredients": [
+                                {
+                                    "id": 2013,
+                                    "name": "whole coriander seeds",
+                                    "image": "coriander-seeds.jpg"
+                                },
+                                {
+                                    "id": 11216,
+                                    "name": "ginger",
+                                    "image": "ginger.png"
+                                },
+                                {
+                                    "id": 1002014,
+                                    "name": "cumin",
+                                    "image": "ground-cumin.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404751,
+                                    "name": "mortar and pestle",
+                                    "image": "mortar-and-pestle.jpg"
+                                },
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "image": "food-processor.png"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add red pepper flakes, smoked paprika, cumin, coriander, garam marsala, and salt. Give a couple pulse to incorporate. Next, add nut oil, tomato paste, and cilantro leaves. Pulse until paste forms and everything is well incorporated. Set aside.",
+                            "ingredients": [
+                                {
+                                    "id": 1032009,
+                                    "name": "red pepper flakes",
+                                    "image": "red-pepper-flakes.jpg"
+                                },
+                                {
+                                    "id": 1012028,
+                                    "name": "smoked paprika",
+                                    "image": "paprika.jpg"
+                                },
+                                {
+                                    "id": 93663,
+                                    "name": "garam masala",
+                                    "image": "garam-masala.jpg"
+                                },
+                                {
+                                    "id": 11887,
+                                    "name": "tomato paste",
+                                    "image": "tomato-paste.jpg"
+                                },
+                                {
+                                    "id": 1002014,
+                                    "name": "cumin",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Heat a skillet over medium heat. Melt coconut oil and add diced onion, cooking until translucent, 4-5 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 4047,
+                                    "name": "coconut oil",
+                                    "image": "oil-coconut.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 4,
+                            "step": "Add in minced garlic and cook for one more minute.Stir in masala paste and cook for 1-2 minutes, then stir in stewed tomatoes and coconut milk. Stir together and bring to a boil.",
+                            "ingredients": [
+                                {
+                                    "id": 11533,
+                                    "name": "stewed tomatoes",
+                                    "image": "tomatoes-canned.png"
+                                },
+                                {
+                                    "id": 12118,
+                                    "name": "coconut milk",
+                                    "image": "coconut-milk.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Add in lentils and reduce heat to medium low. Cook, stirring often, until lentils are tender, 20-25 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 16069,
+                                    "name": "lentils",
+                                    "image": "lentils-brown.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 25,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Remove from heat and fold in spinach.",
+                            "ingredients": [
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "Serve with your favorite grain, extra cilantro, and a dollop of greek yogurt.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 612.875,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 21.4988,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 38.6451,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 55.0635,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 6,
+            "gaps": "no",
+            "lowFodmap": true,
+            "preparationMinutes": 10,
+            "cookingMinutes": 0,
+            "sourceUrl": "http://www.vegrecipesofindia.com/masala-tea-powder-dry-masala-chai-powder/",
+            "spoonacularSourceUrl": "https://spoonacular.com/masala-tea-powder-how-to-make-masala-tea-powder-or-chai-masala-488689",
+            "aggregateLikes": 449,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Veg Recipes of India",
+            "sourceName": "Veg Recipes of India",
+            "pricePerServing": 628.07,
+            "id": 488689,
+            "title": "masala tea powder, how to make masala tea powder or chai masala",
+            "readyInMinutes": 10,
+            "servings": 1,
+            "image": "https://spoonacular.com/recipeImages/488689-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "paleolithic",
+                "lacto ovo vegetarian",
+                "primal",
+                "fodmap friendly",
+                "vegan"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Indian on the menu? Try pairing with Gruener Veltliner, Riesling, and Sparkling rosé. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Loimer Lois Gruner Veltliner with a 4.2 out of 5 star rating seems like a good match. It costs about 12 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 444518,
+                        "title": "Loimer Lois Gruner Veltliner",
+                        "description": "Purely aromatic and lively. With lovely aromas of fresh apple and citrus,this wine surprises the palate with great spice componentsas well as exotic fruit and refreshing acidity. An ideal apertif or the perfect pairing with fried chicken,sushi and spicy Asian cuisine, or fresh seafood and vegetables.",
+                        "price": "$11.99",
+                        "imageUrl": "https://spoonacular.com/productImages/444518-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 5.0,
+                        "score": 0.7775000000000001,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Floimer-lois-gruner-veltliner-2010%2F110578"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "first grind the dry ginger.now grind the nutmeg and cardamom.store the simple and basic chai masala in an air tight container.firstly grind the dry ginger.then grind the nutmeg.finally grind all the rest of the herbs and spices with the already ground ginger and nutmeg.store in an air-tight container.use the chai masala whenever you make an indian chai.around ¼ tsp of chai masala is perfect for 2 cups of tea, but you can make it to ½ tsp for a more spicy indian chai.",
+                            "ingredients": [
+                                {
+                                    "id": 2006,
+                                    "name": "cardamom",
+                                    "image": "cardamom.jpg"
+                                },
+                                {
+                                    "id": 11216,
+                                    "name": "ginger",
+                                    "image": "ginger.png"
+                                },
+                                {
+                                    "id": 2025,
+                                    "name": "nutmeg",
+                                    "image": "ground-nutmeg.jpg"
+                                },
+                                {
+                                    "id": 1002044,
+                                    "name": "herbs",
+                                    "image": "mixed-fresh-herbs.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 199.725,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 5.93915,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 5.96428,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 42.1991,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 2,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 15,
+            "cookingMinutes": 0,
+            "sourceUrl": "http://www.vegrecipesofindia.com/kachumber-salad-kuchumber-salad/",
+            "spoonacularSourceUrl": "https://spoonacular.com/kachumber-salad-or-kuchumber-salad-indian-vegetable-salad-488307",
+            "aggregateLikes": 284,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Veg Recipes of India",
+            "sourceName": "Veg Recipes of India",
+            "pricePerServing": 462.57,
+            "id": 488307,
+            "title": "kachumber salad or kuchumber salad – indian vegetable salad",
+            "readyInMinutes": 15,
+            "servings": 1,
+            "image": "https://spoonacular.com/recipeImages/488307-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "salad"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "paleolithic",
+                "lacto ovo vegetarian",
+                "primal",
+                "vegan"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are my top picks for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. You could try Pratsch Organic Gruner Veltliner. Reviewers quite like it with a 4.4 out of 5 star rating and a price of about 12 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 443527,
+                        "title": "Pratsch Organic Gruner Veltliner",
+                        "description": "100% Certified Organic Gruner Veltliner. This wine is herbal, fresh, and spicy with notes of white pepper, apple, and citrus on the palate.",
+                        "price": "$11.99",
+                        "imageUrl": "https://spoonacular.com/productImages/443527-312x231.jpg",
+                        "averageRating": 0.8800000000000001,
+                        "ratingCount": 14.0,
+                        "score": 0.8567441860465117,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fpratsch-organic-gruner-veltliner-2016%2F254311"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "after cutting the vegetables take all of them in a bowl.add the rest of the ingredientstoss the salad well so that the ingredients are mixed evenly.check the seasoning and add more salt or lemon juice, if requiredserve the kachumber salad immediately.",
+                            "ingredients": [
+                                {
+                                    "id": 9152,
+                                    "name": "lemon juice",
+                                    "image": "lemon-juice.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 279.26,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 11.608,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 2.8264,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 68.7421,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 9,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 10,
+            "cookingMinutes": 30,
+            "sourceUrl": "http://www.jocooks.com/side-dishes/crispy-indian-spiced-potato-wedges/",
+            "spoonacularSourceUrl": "https://spoonacular.com/crispy-indian-spiced-potato-wedges-560259",
+            "aggregateLikes": 1099,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Jo Cooks",
+            "sourceName": "Jo Cooks",
+            "pricePerServing": 93.15,
+            "id": 560259,
+            "title": "Crispy Indian Spiced Potato Wedges",
+            "readyInMinutes": 40,
+            "servings": 4,
+            "image": "https://spoonacular.com/recipeImages/560259-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are my top picks for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Laurenz V Singing Gruner Veltliner with a 4.2 out of 5 star rating seems like a good match. It costs about 10 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 434576,
+                        "title": "Laurenz V Singing Gruner Veltliner",
+                        "description": "A very attractive fruit bouquet yields apple, peach and citrus aromas along with a typical Veltliner spiciness and a touch of white pepper. The soft and juicy palate is supported by fine acidity. It sings on the palate!",
+                        "price": "$10.49",
+                        "imageUrl": "https://spoonacular.com/productImages/434576-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 5.0,
+                        "score": 0.7775000000000001,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Flaurenz-v-singing-gruner-veltliner-2007%2F99150"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat oven to 425 F degrees.Line baking tray with aluminum foil and parchment paper, or just parchment paper, but make sure it covers the entire tray.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404770,
+                                    "name": "baking paper",
+                                    "image": "baking-paper.jpg"
+                                },
+                                {
+                                    "id": 404765,
+                                    "name": "aluminum foil",
+                                    "image": "aluminum-foil.png"
+                                },
+                                {
+                                    "id": 404646,
+                                    "name": "baking pan",
+                                    "image": "roasting-pan.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "image": "oven.jpg",
+                                    "temperature": {
+                                        "number": 425.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Brush olive oil over the parchment paper.In a small bowl combine the rest of the ingredients and slightly whisk.",
+                            "ingredients": [
+                                {
+                                    "id": 4053,
+                                    "name": "olive oil",
+                                    "image": "olive-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404770,
+                                    "name": "baking paper",
+                                    "image": "baking-paper.jpg"
+                                },
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "image": "whisk.png"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Pour this mixture over the potatoes and toss them around to make sure each wedge is fully coated in the spice.",
+                            "ingredients": [
+                                {
+                                    "id": 11362,
+                                    "name": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Place the potatoes on the baking sheet and bake on the middle rack for 15 minutes. Take the tray out and turn wedges over and bake for another 10 or 15 minutes or until potatoes are done.",
+                            "ingredients": [
+                                {
+                                    "id": 11362,
+                                    "name": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404727,
+                                    "name": "baking sheet",
+                                    "image": "baking-sheet.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 30,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 358.406,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 14.3898,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 4.23313,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 69.6086,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 5,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 5,
+            "cookingMinutes": 0,
+            "sourceUrl": "http://ahealthylifeforme.com/cherry-coconut-chocolate-smoothie/",
+            "spoonacularSourceUrl": "https://spoonacular.com/cherry-coconut-chocolate-smoothie-812124",
+            "aggregateLikes": 1375,
+            "spoonacularScore": 100.0,
+            "healthScore": 76.0,
+            "creditsText": "A Healthy Life for Me",
+            "sourceName": "A Healthy Life for Me",
+            "pricePerServing": 280.9,
+            "id": 812124,
+            "title": "Cherry Coconut Chocolate Smoothie",
+            "readyInMinutes": 5,
+            "servings": 1,
+            "image": "https://spoonacular.com/recipeImages/812124-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [],
+            "diets": [
+                "gluten free",
+                "dairy free"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Indian works really well with Gruener Veltliner, Riesling, and Sparkling rosé. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. One wine you could try is Jurtschitsch Stein Gruner Veltliner. It has 4.2 out of 5 stars and a bottle costs about 18 dollars.",
+                "productMatches": [
+                    {
+                        "id": 446620,
+                        "title": "Jurtschitsch Stein Gruner Veltliner",
+                        "description": "Grapefruit, salt, and wet rock, refreshing, rejuvenating and appetizing– all these attributes are found on the nose and the palate. Stone fruit completes the array of aromas. Definitely a terroir wine. The structure is compact and tightly woven while the style is cool and elegant and a fine texture coats the mouth. The Stein is playful and refreshing, yet is by no means superficial.",
+                        "price": "$17.99",
+                        "imageUrl": "https://spoonacular.com/productImages/446620-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 16.0,
+                        "score": 0.8195918367346939,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fjurtschitsch-stein-gruner-veltliner-2016%2F196110"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Place all ingredients in a blender and blend.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "image": "blender.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Pour and Enjoy",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 379.296,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 22.291,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 10.7722,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 59.0568,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 0,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 10,
+            "cookingMinutes": 20,
+            "sourceUrl": "http://www.godairyfree.org/recipes/artichoke-curry-vegan-spinach-dip",
+            "spoonacularSourceUrl": "https://spoonacular.com/artichoke-curry-vegan-spinach-dip-248667",
+            "aggregateLikes": 1077,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Go Dairy Free",
+            "sourceName": "Go Dairy Free",
+            "pricePerServing": 144.31,
+            "id": 248667,
+            "title": "Artichoke Curry Vegan Spinach Dip",
+            "readyInMinutes": 30,
+            "servings": 6,
+            "image": "https://spoonacular.com/recipeImages/248667-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "condiment",
+                "dip",
+                "spread"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free"
+            ],
+            "occasions": [
+                "super bowl"
+            ],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are great choices for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Weingut Hirsch Heiligenstein Gruner Veltliner with a 4.1 out of 5 star rating seems like a good match. It costs about 32 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 477384,
+                        "title": "Weingut Hirsch Heiligenstein Gruner Veltliner",
+                        "description": "Kammerner Heiligenstein is a blend of Hirsch's holdings in the 1er Lage (Grand Cru) sites of Lamm, Grub and Renner. Very aromatic, rich and primordial; the brightness and steely lift of this wine is remarkable and lovely.",
+                        "price": "$31.99",
+                        "imageUrl": "https://spoonacular.com/productImages/477384-312x231.jpg",
+                        "averageRating": 0.82,
+                        "ratingCount": 5.0,
+                        "score": 0.7575,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fweingut-hirsch-heiligenstein-gruner-veltliner-2014%2F157207"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat your oven to 375ºF.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "image": "oven.jpg",
+                                    "temperature": {
+                                        "number": 375.0,
+                                        "unit": "Fahrenheit"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Combine the artichoke hearts, tofu, coconut milk beverage, garlic, curry, mustard (if using), lemon juice, salt, and pepper, to taste, in your blender or food processor and puree until smooth.Stir in the chopped spinach and pour the mixture into 1 to 4 ramekins. 1 is for serving the dip as a whole, but I like using 2 to 4 ramekins for serving smaller or even single-serve portions.",
+                            "ingredients": [
+                                {
+                                    "id": 93828,
+                                    "name": "artichoke hearts",
+                                    "image": "artichoke-hearts.png"
+                                },
+                                {
+                                    "id": 9152,
+                                    "name": "lemon juice",
+                                    "image": "lemon-juice.jpg"
+                                },
+                                {
+                                    "id": 2046,
+                                    "name": "mustard",
+                                    "image": "regular-mustard.jpg"
+                                },
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404771,
+                                    "name": "food processor",
+                                    "image": "food-processor.png"
+                                },
+                                {
+                                    "id": 404781,
+                                    "name": "ramekin",
+                                    "image": "ramekin.jpg"
+                                },
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "image": "blender.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Bake for about 20 minutes, or until the top looks firm and the edges just begin to turn golden brown.",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 20,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 4,
+                            "step": "Let cool slightly, but serve hot with tortilla chips, crackers, or bread. See my other serving suggestions in the post above.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 117.761,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 3.50014,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 6.72831,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 11.0186,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 14,
+            "gaps": "no",
+            "lowFodmap": false,
+            "sourceUrl": "http://thesimpleveganista.blogspot.com/2013/03/curry-red-lentil-stew-with-kale.html",
+            "spoonacularSourceUrl": "https://spoonacular.com/curry-red-lentil-stew-with-kale-chickpeas-616234",
+            "aggregateLikes": 1309,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "pricePerServing": 230.15,
+            "id": 616234,
+            "title": "Curry Red Lentil Stew with Kale & Chickpeas",
+            "readyInMinutes": 45,
+            "servings": 5,
+            "image": "https://spoonacular.com/recipeImages/616234-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [
+                "fall",
+                "winter"
+            ],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are my top picks for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Loimer Lois Gruner Veltliner with a 4.2 out of 5 star rating seems like a good match. It costs about 12 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 444518,
+                        "title": "Loimer Lois Gruner Veltliner",
+                        "description": "Purely aromatic and lively. With lovely aromas of fresh apple and citrus,this wine surprises the palate with great spice componentsas well as exotic fruit and refreshing acidity. An ideal apertif or the perfect pairing with fried chicken,sushi and spicy Asian cuisine, or fresh seafood and vegetables.",
+                        "price": "$11.99",
+                        "imageUrl": "https://spoonacular.com/productImages/444518-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 5.0,
+                        "score": 0.7775000000000001,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Floimer-lois-gruner-veltliner-2010%2F110578"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Coming to the end of fall and thought a nice lentil stew was in order. I happen to have all these ingredients on hand and decided to put them all together...it was a delicious success. I served this a couple ways. One was over a bed of rice, in a bowl all by itself. For the third way, I combined the leftover rice and stew together creating another wonderful way to enjoy leftovers. I topped my leftover stew with sliced avocado on top, I highly recommend doing this! Avocado is such a nice addition to almost any dish. All ways were hearty and filling while being full of wholesome nutrition. This recipe is easy to put together and is ready in under an hour.I do have a few spices in here which include ginger, red pepper flakes, turmeric, curry and cumin. Feel free to simplify by just using curry and maybe another spice or two. You can still pull off a flavorful lentil stew with simply using curry alone as well. As with all recipes, adjust spices to taste adding anything more or less to your liking.Curry Red Lentil Stew with Kale & Chickpeas",
+                            "ingredients": [
+                                {
+                                    "id": 1032009,
+                                    "name": "red pepper flakes",
+                                    "image": "red-pepper-flakes.jpg"
+                                },
+                                {
+                                    "id": 16057,
+                                    "name": "chickpeas",
+                                    "image": "chickpeas.png"
+                                },
+                                {
+                                    "id": 2043,
+                                    "name": "turmeric",
+                                    "image": "turmeric.jpg"
+                                },
+                                {
+                                    "id": 11216,
+                                    "name": "ginger",
+                                    "image": "ginger.png"
+                                },
+                                {
+                                    "id": 16069,
+                                    "name": "lentils",
+                                    "image": "lentils-brown.jpg"
+                                },
+                                {
+                                    "id": 1002014,
+                                    "name": "cumin",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 11233,
+                                    "name": "kale",
+                                    "image": "kale.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Ingredients (serves 6)1 tablespoon olive oil1 onion, diced5 cloves garlic, minced1 - 2 tablespoons fresh ginger, minced1 - 2 tablespoons curry, to taste1 teaspoon cumin1 teaspoon turmerichimalayan salt to taste1 tablespoons red pepper flakes, optional1 can (15 oz) fire roasted tomatoes or two cups fresh tomatoes, diced2 cups dry red lentils, rinsed and picked over1 1/2 cups cooked garbanzo beans or 1 can (15 oz) garbanzo beans, drained and rinsed6 cups water or vegetable broth, + more as needed3 cups kale, juliennedjuice of one lemon, optionalcooked basmati, brown or jasmine rice, as much as needed",
+                            "ingredients": [
+                                {
+                                    "id": 98849,
+                                    "name": "fire roasted tomatoes",
+                                    "image": "tomatoes-canned.png"
+                                },
+                                {
+                                    "id": 1032009,
+                                    "name": "red pepper flakes",
+                                    "image": "red-pepper-flakes.jpg"
+                                },
+                                {
+                                    "id": 6615,
+                                    "name": "vegetable broth",
+                                    "image": "chicken-broth.png"
+                                },
+                                {
+                                    "id": 16057,
+                                    "name": "chickpeas",
+                                    "image": "chickpeas.png"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "whole garlic cloves",
+                                    "image": "garlic.jpg"
+                                },
+                                {
+                                    "id": 11216,
+                                    "name": "fresh ginger",
+                                    "image": "ginger.png"
+                                },
+                                {
+                                    "id": 10016069,
+                                    "name": "red lentils",
+                                    "image": "red-lentils.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 11233,
+                                    "name": "kale",
+                                    "image": "kale.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "In large pot or stock pot, heat your oil over medium heat, saute onion and garlic until onion becomes transparent.",
+                            "ingredients": [
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 1006615,
+                                    "name": "stock",
+                                    "image": "chicken-broth.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Add spices, tomatoes, lentils, garbanzo beans and 6 cups of liquids, bring to a boil, cover, reduce heat and simmer for about 30 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 16057,
+                                    "name": "chickpeas",
+                                    "image": "chickpeas.png"
+                                },
+                                {
+                                    "id": 16069,
+                                    "name": "lentils",
+                                    "image": "lentils-brown.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 30,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Add in the kale and optional lemon juice, continue to cook for 10 minutes or until kale softens and wilts.",
+                            "ingredients": [
+                                {
+                                    "id": 9152,
+                                    "name": "lemon juice",
+                                    "image": "lemon-juice.jpg"
+                                },
+                                {
+                                    "id": 11233,
+                                    "name": "kale",
+                                    "image": "kale.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 10,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Serve alone, over rice or grain of choice...Enjoy!",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "sourceName": null,
+            "creditsText": null,
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 563.761,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 29.5867,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 6.3509,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 98.6583,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 4,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 15,
+            "cookingMinutes": 25,
+            "sourceUrl": "http://www.vegrecipesofindia.com/poori-bhaji/",
+            "spoonacularSourceUrl": "https://spoonacular.com/poori-bhaji-or-batata-bhaji-maharashtrian-poori-bhaji-488136",
+            "aggregateLikes": 407,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Veg Recipes of India",
+            "sourceName": "Veg Recipes of India",
+            "pricePerServing": 69.45,
+            "id": 488136,
+            "title": "poori bhaji or batata bhaji – maharashtrian poori bhaji",
+            "readyInMinutes": 40,
+            "servings": 4,
+            "image": "https://spoonacular.com/recipeImages/488136-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Indian works really well with Gruener Veltliner, Riesling, and Sparkling rosé. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. One wine you could try is Loimer Lois Gruner Veltliner. It has 4.2 out of 5 stars and a bottle costs about 12 dollars.",
+                "productMatches": [
+                    {
+                        "id": 444518,
+                        "title": "Loimer Lois Gruner Veltliner",
+                        "description": "Purely aromatic and lively. With lovely aromas of fresh apple and citrus,this wine surprises the palate with great spice componentsas well as exotic fruit and refreshing acidity. An ideal apertif or the perfect pairing with fried chicken,sushi and spicy Asian cuisine, or fresh seafood and vegetables.",
+                        "price": "$11.99",
+                        "imageUrl": "https://spoonacular.com/productImages/444518-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 5.0,
+                        "score": 0.7775000000000001,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Floimer-lois-gruner-veltliner-2010%2F110578"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "boil the potatoes till they are cooked completely.once they are warm, peel them and chop.in a pan, heat oil. add cumin, mustard and urad dal.fry till the mustard crackles and starts making sound and the urad dal begins to turn brown.add the chopped onion. fry till they become soft & transparent.now add the ginger and green chilies. fry for a minute.add the curry leaves. stir and fry for some seconds.add the turmeric and asafoetida. stir and fry for some seconds. don't burn the turmeric.next, add the chopped potatoes, half of the coriander leaves.stir. now add ¾ water and salt. stir and cover the pan.let the bhaji simmer for 5-6 minutes on a low flame.there should be some moisture in the bhaji and it should not be very dry.add the remaining coriander leaves.stir and serve batata bhaji hot with pooris, chapatis or dosa.",
+                            "ingredients": [
+                                {
+                                    "id": 31015,
+                                    "name": "green chili pepper",
+                                    "image": "chili-peppers-green.jpg"
+                                },
+                                {
+                                    "id": 93604,
+                                    "name": "curry leaves",
+                                    "image": "curry-leaves.jpg"
+                                },
+                                {
+                                    "id": 1032035,
+                                    "name": "asafoetida",
+                                    "image": "curry-powder.jpg"
+                                },
+                                {
+                                    "id": 11362,
+                                    "name": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                },
+                                {
+                                    "id": 2043,
+                                    "name": "turmeric",
+                                    "image": "turmeric.jpg"
+                                },
+                                {
+                                    "id": 93718,
+                                    "name": "urad dal",
+                                    "image": "urad-dal.png"
+                                },
+                                {
+                                    "id": 2046,
+                                    "name": "mustard",
+                                    "image": "regular-mustard.jpg"
+                                },
+                                {
+                                    "id": 11216,
+                                    "name": "ginger",
+                                    "image": "ginger.png"
+                                },
+                                {
+                                    "id": 1002014,
+                                    "name": "cumin",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 6,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 154.757,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 6.63314,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 0.513556,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 32.9053,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 16,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 10,
+            "cookingMinutes": 40,
+            "sourceUrl": "http://www.spiceupthecurry.com/chana-palak-recipe-chole-palak/",
+            "spoonacularSourceUrl": "https://spoonacular.com/chana-palak-chole-palak-spinach-chickpeas-curry-600888",
+            "aggregateLikes": 186,
+            "spoonacularScore": 100.0,
+            "healthScore": 89.0,
+            "creditsText": "Spice Up the Curry",
+            "sourceName": "Spice Up the Curry",
+            "pricePerServing": 289.54,
+            "id": 600888,
+            "title": "Chana Palak | Chole Palak |Spinach chickpeas curry",
+            "readyInMinutes": 50,
+            "servings": 2,
+            "image": "https://spoonacular.com/recipeImages/600888-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Indian works really well with Gruener Veltliner, Riesling, and Sparkling rosé. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. You could try Pratsch Organic Gruner Veltliner (1 Liter). Reviewers quite like it with a 4.6 out of 5 star rating and a price of about 10 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 443370,
+                        "title": "Pratsch Organic Gruner Veltliner (1 Liter)",
+                        "description": "For centuries, the Weinviertel, in lower Austria, has been the region that delivers its wines to Vienna as it borders the city. Due to the rolling hills of the region the vines are grown on the tops of the hills to have better aeration and better drained soil. \nThis wine is herbal, fresh and spicy with notes of white pepper, apple and citrus on the palate.",
+                        "price": "$10.39",
+                        "imageUrl": "https://spoonacular.com/productImages/443370-312x231.jpg",
+                        "averageRating": 0.9199999999999999,
+                        "ratingCount": 6.0,
+                        "score": 0.8673684210526316,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fpratsch-organic-gruner-veltliner-1-liter-2016%2F272660"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Wash chickpeas under running cold water till water runs clear. Soak them for 8-10 hours or overnight.",
+                            "ingredients": [
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 2,
+                            "step": "Drain and then pressure cook it with 1½ cups of water and salt for 1 whistle on high + 20 minutes on medium-low heat. Or cook it till they are soft.",
+                            "ingredients": [
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 20,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Let the pressure go down by itself.While chickpeas are cooking blanch tomato and spinach. For that, bring about 5-6 cups of water to a rolling boil.",
+                            "ingredients": [
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "image": "tomato.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Add salt to it, then add spinach, cook for 3 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Drain all the water and run cold water to it so it stops cooking.Now let the water comes to a boil again. Make a cross at the bottom of the tomato. Blanch it into water for 4-5 minutes or till the skin will start to comes off. Immediately drop into cold water to stop cooking. Peel the skin off.Now first make cashew powder into grinder. After that, puree the tomato. And then puree spinach with green chilies. By this time chole should be cooked.Now heat the oil in a pan on medium heat. Once hot add cumin seeds.",
+                            "ingredients": [
+                                {
+                                    "id": 2014,
+                                    "name": "cumin seeds",
+                                    "image": "ground-cumin.jpg"
+                                },
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                },
+                                {
+                                    "id": 12087,
+                                    "name": "cashews",
+                                    "image": "cashews.jpg"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "image": "tomato.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 4582,
+                                    "name": "cooking oil",
+                                    "image": "vegetable-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Let them sizzle a bit.Then add chopped onion.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "Add some salt and let it cook till it becomes light brown.",
+                            "ingredients": [
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Add ginger paste, garlic paste. Cook for a minute or till the raw smell of ginger garlic goes away.",
+                            "ingredients": [
+                                {
+                                    "id": 10111215,
+                                    "name": "garlic paste",
+                                    "image": "garlic-paste.png"
+                                },
+                                {
+                                    "id": 93754,
+                                    "name": "ginger paste",
+                                    "image": "ginger-garlic-paste.png"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "image": "garlic.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 9,
+                            "step": "Add pureed tomato. Cook till moisture evaporates.",
+                            "ingredients": [
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "image": "tomato.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 10,
+                            "step": "Add coriander powder, garam masala and kasoori methi.",
+                            "ingredients": [
+                                {
+                                    "id": 1002013,
+                                    "name": "ground coriander",
+                                    "image": "ground-coriander.jpg"
+                                },
+                                {
+                                    "id": 93663,
+                                    "name": "garam masala",
+                                    "image": "garam-masala.jpg"
+                                },
+                                {
+                                    "id": 98963,
+                                    "name": "dried fenugreek leaves",
+                                    "image": "methi.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 11,
+                            "step": "Mix and cook for a minute.Now",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 12,
+                            "step": "Add pureed spinach and mix well.Once curry comes a boil, sprinkle cashew nut powder.",
+                            "ingredients": [
+                                {
+                                    "id": 12087,
+                                    "name": "cashews",
+                                    "image": "cashews.jpg"
+                                },
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 13,
+                            "step": "Mix it properly.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 14,
+                            "step": "Add cooked chana and mix.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 15,
+                            "step": "Add water if needed to adjust the gravy consistency. I have added ½ cup of water.",
+                            "ingredients": [
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 16,
+                            "step": "Let it simmer for 5 minutes.Chana palak is ready to serve.",
+                            "ingredients": [],
+                            "equipment": [],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 568.831,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 22.9992,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 22.3809,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 75.5022,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 17,
+            "gaps": "no",
+            "lowFodmap": false,
+            "sourceUrl": "http://naturallyella.com/2014/10/01/quick-red-lentil-and-spinach-curry/",
+            "spoonacularSourceUrl": "https://spoonacular.com/quick-red-lentil-and-spinach-curry-616030",
+            "aggregateLikes": 713,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Naturally Ella",
+            "sourceName": "Naturally Ella",
+            "pricePerServing": 157.52,
+            "id": 616030,
+            "title": "Quick Red Lentil and Spinach Curry",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "image": "https://spoonacular.com/recipeImages/616030-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "gluten free",
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are great choices for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Pratsch Organic Gruner Veltliner with a 4.4 out of 5 star rating seems like a good match. It costs about 12 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 443527,
+                        "title": "Pratsch Organic Gruner Veltliner",
+                        "description": "100% Certified Organic Gruner Veltliner. This wine is herbal, fresh, and spicy with notes of white pepper, apple, and citrus on the palate.",
+                        "price": "$11.99",
+                        "imageUrl": "https://spoonacular.com/productImages/443527-312x231.jpg",
+                        "averageRating": 0.8800000000000001,
+                        "ratingCount": 14.0,
+                        "score": 0.8567441860465117,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fpratsch-organic-gruner-veltliner-2016%2F254311"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "In a skillet with high sides, whisk together coconut milk, water and curry paste. Bring to a boil, reduce to a simmer, and add red lentils.",
+                            "ingredients": [
+                                {
+                                    "id": 93605,
+                                    "name": "curry paste",
+                                    "image": "chili-paste.png"
+                                },
+                                {
+                                    "id": 10016069,
+                                    "name": "red lentils",
+                                    "image": "red-lentils.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "image": "pan.png"
+                                },
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "image": "whisk.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Let simmer for 22 to 25 minutes, just until the red lentils are tender but still hold their shape.",
+                            "ingredients": [
+                                {
+                                    "id": 10016069,
+                                    "name": "red lentils",
+                                    "image": "red-lentils.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 22,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 3,
+                            "step": "Remove pot from heat and stir in spinach until wilted.",
+                            "ingredients": [
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "step": "Serve curry over cooked grain, with a dollop of yogurt, if desired.",
+                            "ingredients": [
+                                {
+                                    "id": 1116,
+                                    "name": "yogurt",
+                                    "image": "plain-yogurt.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 561.263,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 18.5444,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 10.8447,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 94.0193,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 6,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 15,
+            "cookingMinutes": 0,
+            "sourceUrl": "http://www.eatingwell.com/recipe/256504/green-curry-vegetable-soup/",
+            "spoonacularSourceUrl": "https://spoonacular.com/green-curry-vegetable-soup-929118",
+            "aggregateLikes": 74,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Eating Well",
+            "sourceName": "Eating Well",
+            "pricePerServing": 227.79,
+            "id": 929118,
+            "title": "Green Curry Vegetable Soup",
+            "readyInMinutes": 15,
+            "servings": 1,
+            "image": "https://spoonacular.com/recipeImages/929118-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "soup"
+            ],
+            "diets": [
+                "dairy free",
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [
+                "fall",
+                "winter"
+            ],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are my top picks for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. One wine you could try is Loimer Lois Gruner Veltliner. It has 4.2 out of 5 stars and a bottle costs about 12 dollars.",
+                "productMatches": [
+                    {
+                        "id": 444518,
+                        "title": "Loimer Lois Gruner Veltliner",
+                        "description": "Purely aromatic and lively. With lovely aromas of fresh apple and citrus,this wine surprises the palate with great spice componentsas well as exotic fruit and refreshing acidity. An ideal apertif or the perfect pairing with fried chicken,sushi and spicy Asian cuisine, or fresh seafood and vegetables.",
+                        "price": "$11.99",
+                        "imageUrl": "https://spoonacular.com/productImages/444518-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 5.0,
+                        "score": 0.7775000000000001,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Floimer-lois-gruner-veltliner-2010%2F110578"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Combine pasta, spinach, bell pepper, carrot and cilantro in a heatproof bowl. Bring chicken broth to a boil. Stir in curry paste.",
+                            "ingredients": [
+                                {
+                                    "id": 10211821,
+                                    "name": "bell pepper",
+                                    "image": "bell-pepper-orange.png"
+                                },
+                                {
+                                    "id": 93605,
+                                    "name": "curry paste",
+                                    "image": "chili-paste.png"
+                                },
+                                {
+                                    "id": 11165,
+                                    "name": "cilantro",
+                                    "image": "cilantro.png"
+                                },
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                },
+                                {
+                                    "id": 11124,
+                                    "name": "carrot",
+                                    "image": "sliced-carrot.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Pour the broth over the pasta mixture.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Serve hot.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 272.132,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 17.2646,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 4.86998,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 45.1012,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 6,
+            "gaps": "no",
+            "lowFodmap": true,
+            "preparationMinutes": 5,
+            "cookingMinutes": 0,
+            "sourceUrl": "http://ahealthylifeforme.com/2014/03/01/chocolate-coconut-banana-superfood-smoothie/",
+            "spoonacularSourceUrl": "https://spoonacular.com/chocolate-coconut-banana-superfood-smoothie-486148",
+            "aggregateLikes": 59,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "A Healthy Life for Me",
+            "sourceName": "A Healthy Life for Me",
+            "pricePerServing": 158.96,
+            "id": 486148,
+            "title": "Chocolate Coconut Banana Superfood Smoothie",
+            "readyInMinutes": 5,
+            "servings": 1,
+            "image": "https://spoonacular.com/recipeImages/486148-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "fodmap friendly"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Indian can be paired with Gruener Veltliner, Riesling, and Sparkling rosé. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Pratsch Organic Gruner Veltliner with a 4.4 out of 5 star rating seems like a good match. It costs about 12 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 443527,
+                        "title": "Pratsch Organic Gruner Veltliner",
+                        "description": "100% Certified Organic Gruner Veltliner. This wine is herbal, fresh, and spicy with notes of white pepper, apple, and citrus on the palate.",
+                        "price": "$11.99",
+                        "imageUrl": "https://spoonacular.com/productImages/443527-312x231.jpg",
+                        "averageRating": 0.8800000000000001,
+                        "ratingCount": 14.0,
+                        "score": 0.8567441860465117,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fpratsch-organic-gruner-veltliner-2016%2F254311"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Add all ingredients in a blender and puree until blended.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "image": "blender.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Pour and enjoy",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 308.326,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 19.5391,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 18.9587,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 21.5316,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": true,
+            "glutenFree": true,
+            "dairyFree": true,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 4,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 10,
+            "cookingMinutes": 15,
+            "sourceUrl": "http://www.cheaprecipeblog.com/2013/02/aloo-matar-indian-pea-and-potato-curry-recipe/",
+            "spoonacularSourceUrl": "https://spoonacular.com/aloo-matar-indian-pea-and-potato-curry-482918",
+            "aggregateLikes": 372,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Cheap Recipe Blog",
+            "sourceName": "Cheap Recipe Blog",
+            "pricePerServing": 106.04,
+            "id": 482918,
+            "title": "Aloo Matar: Indian Pea and Potato Curry",
+            "readyInMinutes": 25,
+            "servings": 4,
+            "image": "https://spoonacular.com/recipeImages/482918-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "gluten free",
+                "dairy free",
+                "lacto ovo vegetarian",
+                "vegan"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are great choices for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Laurenz V Singing Gruner Veltliner with a 4.2 out of 5 star rating seems like a good match. It costs about 10 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 434576,
+                        "title": "Laurenz V Singing Gruner Veltliner",
+                        "description": "A very attractive fruit bouquet yields apple, peach and citrus aromas along with a typical Veltliner spiciness and a touch of white pepper. The soft and juicy palate is supported by fine acidity. It sings on the palate!",
+                        "price": "$10.49",
+                        "imageUrl": "https://spoonacular.com/productImages/434576-312x231.jpg",
+                        "averageRating": 0.8400000000000001,
+                        "ratingCount": 5.0,
+                        "score": 0.7775000000000001,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Flaurenz-v-singing-gruner-veltliner-2007%2F99150"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Cut boiled potatoes into small chunks. Set aside.In a large frying pan, heat one to two tablespoons of olive oil.",
+                            "ingredients": [
+                                {
+                                    "id": 4053,
+                                    "name": "olive oil",
+                                    "image": "olive-oil.jpg"
+                                },
+                                {
+                                    "id": 11362,
+                                    "name": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "Add onion and cook until onions begin to soften.",
+                            "ingredients": [
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add garlic and ginger and cook for another 30 seconds.",
+                            "ingredients": [
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 11216,
+                                    "name": "ginger",
+                                    "image": "ginger.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 4,
+                            "step": "Add potato chunks and cook for 3 more minutes, until lightly browned.",
+                            "ingredients": [
+                                {
+                                    "id": 11362,
+                                    "name": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 5,
+                            "step": "Add tomatoes, spices, sugar and salt. Simmer for about 10 minutes, allowing the flavors to come together.",
+                            "ingredients": [
+                                {
+                                    "id": 19335,
+                                    "name": "sugar",
+                                    "image": "sugar-in-bowl.png"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 10,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Add peas and cook for a few more minutes until heated.",
+                            "ingredients": [
+                                {
+                                    "id": 11304,
+                                    "name": "peas",
+                                    "image": "peas.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 7,
+                            "step": "Remove from heat.",
+                            "ingredients": [],
+                            "equipment": []
+                        },
+                        {
+                            "number": 8,
+                            "step": "Serve with plain yogurt and naan bread or rice.",
+                            "ingredients": [],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 228.006,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 10.5627,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 2.26915,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 45.1021,
+                    "unit": "g"
+                }
+            ]
+        },
+        {
+            "vegetarian": true,
+            "vegan": false,
+            "glutenFree": true,
+            "dairyFree": false,
+            "veryHealthy": true,
+            "cheap": false,
+            "veryPopular": true,
+            "sustainable": false,
+            "weightWatcherSmartPoints": 8,
+            "gaps": "no",
+            "lowFodmap": false,
+            "preparationMinutes": 25,
+            "cookingMinutes": 20,
+            "sourceUrl": "http://www.vegrecipesofindia.com/aloo-palak/",
+            "spoonacularSourceUrl": "https://spoonacular.com/aloo-palak-how-to-make-aloo-palak-aloo-palak-curry-486890",
+            "aggregateLikes": 537,
+            "spoonacularScore": 100.0,
+            "healthScore": 100.0,
+            "creditsText": "Veg Recipes of India",
+            "sourceName": "Veg Recipes of India",
+            "pricePerServing": 187.27,
+            "id": 486890,
+            "title": "aloo palak, how to make aloo palak | aloo palak curry",
+            "readyInMinutes": 45,
+            "servings": 3,
+            "image": "https://spoonacular.com/recipeImages/486890-312x231.jpg",
+            "imageType": "jpg",
+            "cuisines": [
+                "Indian",
+                "Asian"
+            ],
+            "dishTypes": [
+                "side dish"
+            ],
+            "diets": [
+                "gluten free",
+                "lacto ovo vegetarian"
+            ],
+            "occasions": [],
+            "winePairing": {
+                "pairedWines": [
+                    "gruener veltliner",
+                    "riesling",
+                    "sparkling rose"
+                ],
+                "pairingText": "Indian works really well with Gruener Veltliner, Riesling, and Sparkling rosé. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Pratsch Organic Gruner Veltliner with a 4.4 out of 5 star rating seems like a good match. It costs about 12 dollars per bottle.",
+                "productMatches": [
+                    {
+                        "id": 443527,
+                        "title": "Pratsch Organic Gruner Veltliner",
+                        "description": "100% Certified Organic Gruner Veltliner. This wine is herbal, fresh, and spicy with notes of white pepper, apple, and citrus on the palate.",
+                        "price": "$11.99",
+                        "imageUrl": "https://spoonacular.com/productImages/443527-312x231.jpg",
+                        "averageRating": 0.8800000000000001,
+                        "ratingCount": 14.0,
+                        "score": 0.8567441860465117,
+                        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fpratsch-organic-gruner-veltliner-2016%2F254311"
+                    }
+                ]
+            },
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "boil the potatoes or aloos in a pressure cooker or steamer till the are completely cooked.peel and quarter or dice them. keep aside covered.boil 2 to 3 cups water with some salt.switch off the fire and immediately add the palak or spinach.blanch them in the water for 4-5 minutes.drain and immediately place the palak in cold water for 3-4 minutes.drain again and along with green chilies, make a smooth puree in a grinder or blender.heat oil or ghee or butter in a pan or kadai/wok.fry the bay leaf, cloves and cinnamon till they become aromatic.add the chopped onion and fry till light brown.now add the ginger-garlic paste and fry till the raw aroma goes away.add the tomatoes and fry till the tomatoes become soft and mushy.the oil should start releasing from the mixture.now add the turmeric powder and asafoetida and stir for 5-10 seconds.add the palak puree. stir well.add the besan or gram flour. stir with a wired whisk so that the besan dissolves and there are no lumps.alternatively, you can also dissolve the besan in 3-4 tbsp water and make a smooth paste.then add this paste to the palak mixture. stir and add 1 cup water. season with salt.simmer the palak gravy till the palak gets completely cooked.the gravy or sauce will slightly thicken.you can adjust the consistency by adding more or less water.add the aloos and simmer for 2-3 minutes more.sprinkle the garam masala powder & crushed kasuri methi leaves. stir and cook for a minute.serve aloo palak hot with some rotis, chapatis or parathas.",
+                            "ingredients": [
+                                {
+                                    "id": 2043,
+                                    "name": "turmeric",
+                                    "image": "turmeric.jpg"
+                                },
+                                {
+                                    "id": 1032035,
+                                    "name": "asafoetida",
+                                    "image": "curry-powder.jpg"
+                                },
+                                {
+                                    "id": 2004,
+                                    "name": "bay leaves",
+                                    "image": "bay-leaves.jpg"
+                                },
+                                {
+                                    "id": 2010,
+                                    "name": "cinnamon",
+                                    "image": "cinnamon.jpg"
+                                },
+                                {
+                                    "id": 11362,
+                                    "name": "potato",
+                                    "image": "potatoes-yukon-gold.png"
+                                },
+                                {
+                                    "id": 11529,
+                                    "name": "tomato",
+                                    "image": "tomato.png"
+                                },
+                                {
+                                    "id": 10011457,
+                                    "name": "spinach",
+                                    "image": "spinach.jpg"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 14412,
+                                    "name": "water",
+                                    "image": "water.png"
+                                },
+                                {
+                                    "id": 93632,
+                                    "name": "ghee",
+                                    "image": "ghee.jpg"
+                                },
+                                {
+                                    "id": 2047,
+                                    "name": "salt",
+                                    "image": "salt.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404658,
+                                    "name": "pressure cooker",
+                                    "image": "pressure-cooker.jpg"
+                                },
+                                {
+                                    "id": 404726,
+                                    "name": "blender",
+                                    "image": "blender.png"
+                                },
+                                {
+                                    "id": 404661,
+                                    "name": "whisk",
+                                    "image": "whisk.png"
+                                },
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "image": "pan.png"
+                                },
+                                {
+                                    "id": 404666,
+                                    "name": "wok",
+                                    "image": "wok.png"
+                                }
+                            ],
+                            "length": {
+                                "number": 12,
+                                "unit": "minutes"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "nutrition": [
+                {
+                    "title": "Calories",
+                    "amount": 284.815,
+                    "unit": "cal"
+                },
+                {
+                    "title": "Protein",
+                    "amount": 10.2,
+                    "unit": "g"
+                },
+                {
+                    "title": "Fat",
+                    "amount": 10.9913,
+                    "unit": "g"
+                },
+                {
+                    "title": "Carbohydrates",
+                    "amount": 41.1802,
+                    "unit": "g"
+                }
+            ]
+        }
+    ],
+    "offset": 0,
+    "number": 15,
+    "totalResults": 2603
+}
