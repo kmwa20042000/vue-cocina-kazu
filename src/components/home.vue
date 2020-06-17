@@ -2,188 +2,189 @@
   <div>
     <div>
       <Appheader />
-      <Banner/>
+      <Banner />
     </div>
 
-    <hr>
+    <hr />
     <Cuisineicon />
     <div>
-      <featuredMenu v-for="(recipe, index) in recipeList" v-bind:key="index" v-bind:recipe='recipe'></featuredMenu>
+      <featuredMenu v-for="(recipe, index) in recipeList" v-bind:key="index" v-bind:recipe="recipe"></featuredMenu>
     </div>
-<Footer/>
+    <Footer />
   </div>
-
 </template>
 
 <script>
-  import featuredMenu from './featuredmenu'
-  import Cuisineicon from './cuisinetype'
-  import Appheader from './app-header'
-  import Footer from './footer'
-  import Banner from './signup-banner'
+import featuredMenu from "./featuredmenu";
+import Cuisineicon from "./cuisinetype";
+import Appheader from "./app-header";
+import Footer from "./footer";
+import Banner from "./signup-banner";
 
-  export default {
-    name: 'home',
-    components: {
-      Appheader,
-      featuredMenu,
-      Cuisineicon,
-      Footer,
-      Banner,
-    },
-    data() {
-      return {
-        title: 'home',
-        recipeList: [],
-        japRecipeList: [],
+export default {
+  name: "home",
+  components: {
+    Appheader,
+    featuredMenu,
+    Cuisineicon,
+    Footer,
+    Banner
+  },
+  data() {
+    return {
+      title: "home",
+      recipeList: [],
+      japRecipeList: []
+    };
+  },
+  created() {
+    fetch(
+      "https://api.spoonacular.com/recipes/random?apiKey=30e6ae4b84894f5694498415888fae57",
+      {
+        method: "GET"
       }
-    },
-    created() {
-      fetch('https://api.spoonacular.com/recipes/random?apiKey=30e6ae4b84894f5694498415888fae57', {
-          method: "GET",
-        })
-        .then(function (response) {
-          return response.json();
-        }).then(
-          (recipeApi) => {
-            this.recipeList = recipeApi.recipes;
-            console.log(this.recipeList)
-          }
-
-        )
-    },
+    )
+      .then(function(response) {
+        return response.json();
+      })
+      .then(recipeApi => {
+        this.recipeList = recipeApi.recipes;
+        console.log(this.recipeList);
+      });
   }
+};
 </script>
 
 <style scoped>
-  #app {
-    font-family: Avenir, Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-align: center;
-    color: #2c3e50;
-    margin-top: 60px;
-  }
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
 
-  body {
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  }
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 700;
-  }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
 
+header.masthead {
+  position: relative;
+  background-color: #343a40;
+  background: url("https://i.ibb.co/ThYMDg0/philosophy-hero-2x.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+header.masthead .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
+
+header.masthead h1 {
+  font-size: 2rem;
+}
+
+@media (min-width: 768px) {
   header.masthead {
-    position: relative;
-    background-color: #343a40;
-    background: url("https://i.ibb.co/ThYMDg0/philosophy-hero-2x.jpg") no-repeat center center;
-    background-size: cover;
-    padding-top: 8rem;
-    padding-bottom: 8rem;
-  }
-
-  header.masthead .overlay {
-    position: absolute;
-    background-color: #212529;
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-    opacity: 0.3;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
   }
 
   header.masthead h1 {
-    font-size: 2rem;
+    font-size: 3rem;
   }
+}
 
-  @media (min-width: 768px) {
-    header.masthead {
-      padding-top: 12rem;
-      padding-bottom: 12rem;
-    }
+.showcase .showcase-text {
+  padding: 3rem;
+}
 
-    header.masthead h1 {
-      font-size: 3rem;
-    }
-  }
+.showcase .showcase-img {
+  min-height: 30rem;
+  background-size: cover;
+}
 
+@media (min-width: 768px) {
   .showcase .showcase-text {
-    padding: 3rem;
+    padding: 7rem;
   }
+}
 
-  .showcase .showcase-img {
-    min-height: 30rem;
-    background-size: cover;
-  }
+.features-icons {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
 
-  @media (min-width: 768px) {
-    .showcase .showcase-text {
-      padding: 7rem;
-    }
-  }
+.features-icons .features-icons-item {
+  max-width: 20rem;
+}
 
-  .features-icons {
-    padding-top: 7rem;
-    padding-bottom: 7rem;
-  }
+.features-icons .features-icons-item .features-icons-icon {
+  height: 7rem;
+}
 
-  .features-icons .features-icons-item {
-    max-width: 20rem;
-  }
+.features-icons .features-icons-item .features-icons-icon i {
+  font-size: 4.5rem;
+}
 
-  .features-icons .features-icons-item .features-icons-icon {
-    height: 7rem;
-  }
+.features-icons .features-icons-item:hover .features-icons-icon i {
+  font-size: 5rem;
+}
 
-  .features-icons .features-icons-item .features-icons-icon i {
-    font-size: 4.5rem;
-  }
+.testimonials {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
 
-  .features-icons .features-icons-item:hover .features-icons-icon i {
-    font-size: 5rem;
-  }
+.testimonials .testimonial-item {
+  max-width: 18rem;
+}
 
-  .testimonials {
-    padding-top: 7rem;
-    padding-bottom: 7rem;
-  }
+.testimonials .testimonial-item img {
+  max-width: 12rem;
+  box-shadow: 0px 5px 5px 0px #adb5bd;
+}
 
-  .testimonials .testimonial-item {
-    max-width: 18rem;
-  }
+.call-to-action {
+  position: relative;
+  background-color: #343a40;
+  background: url("https://ibb.co/dKj4s5p") no-repeat center center;
+  background-size: cover;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
 
-  .testimonials .testimonial-item img {
-    max-width: 12rem;
-    box-shadow: 0px 5px 5px 0px #adb5bd;
-  }
+.call-to-action .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
 
-  .call-to-action {
-    position: relative;
-    background-color: #343a40;
-    background: url("https://ibb.co/dKj4s5p") no-repeat center center;
-    background-size: cover;
-    padding-top: 7rem;
-    padding-bottom: 7rem;
-  }
-
-  .call-to-action .overlay {
-    position: absolute;
-    background-color: #212529;
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-    opacity: 0.3;
-  }
-
-  footer.footer {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
-  }
+footer.footer {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
 </style>

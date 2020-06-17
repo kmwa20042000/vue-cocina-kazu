@@ -2,25 +2,18 @@
   <div>
     <Appheader />
     <div class="container">
-      <br>
-      <br>
-      <div class="container-sm">
-      <!-- <picture class="bannerimage"> -->
-        <!-- <source class="smallimg" media="(max-width: 799px)" srcset="../assets/961006176.jpg">
-        <source  media="(min-width: 800px)" srcset="../assets/Tokyo-food-Japanese-food-variety-of-food.jpg"
-          >
-        <img class="japbanner" src="../assets/Tokyo-food-Japanese-food-variety-of-food.jpg" alt="Jap Food">
-      </picture> -->
-      </div>
+      <br />
+      <br />
+      <div class="container-sm"></div>
 
       <div class="text-center mt-4">
         <h2 class="display-4">Japanese</h2>
       </div>
-      <br>
+      <br />
 
       <div class="cardsBox">
         <div class="cardJap" v-for="(item, index) in jpnRecipesList" v-bind:key="index">
-          <Recipecard v-bind:recipiApi='item' />
+          <Recipecard v-bind:recipiApi="item" />
         </div>
       </div>
     </div>
@@ -29,26 +22,24 @@
 </template>
 
 <script>
-  import {mapState} from 'vuex'
-  import Appheader from './app-header'
-  import Recipecard from './app-recipecards'
-  import Footer from './footer'
-  export default {
-    name: 'japanese',
-    components: {
-      Recipecard,
-      Appheader,
-      Footer
-    },
-    mounted(){
-      this.$store.dispatch('loadJpnMenu')
-    },
-    computed: {
-      ... mapState([
-        'jpnRecipesList',
-      ])
-    }
+import { mapState } from "vuex";
+import Appheader from "./app-header";
+import Recipecard from "./app-recipecards";
+import Footer from "./footer";
+export default {
+  name: "japanese",
+  components: {
+    Recipecard,
+    Appheader,
+    Footer
+  },
+  mounted() {
+    this.$store.dispatch("loadJpnMenu");
+  },
+  computed: {
+    ...mapState(["jpnRecipesList"])
   }
+};
 </script>
 
 <style scoped>
@@ -61,7 +52,7 @@
 
 .cardJap {
   width: 350px;
-  padding: 9px
+  padding: 9px;
 }
 
 h1 {
@@ -92,7 +83,7 @@ h1 {
 }
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
-  .smallimg>img {
+  .smallimg > img {
     -webkit-order: 0;
     -ms-flex-order: 0;
     order: 0;
@@ -131,12 +122,9 @@ h1 {
   }
 }
 
-;
-
-
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
 
 .display-4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 </style>
